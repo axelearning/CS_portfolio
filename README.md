@@ -3,8 +3,8 @@ This directory retrieves my personnal projects towards learning Data Science.
 ## Projects List
 
 ### 🧠 Machine Learning
-  - __Softmax Regression Algorithm from Scratch__
-  - __First Neural Network on MNIST__
+  - [Softmax Regression Algorithm from Scratch](https://github.com/axelearning/CS_portfolio/tree/master/machine_learning/softmax_regression_from_scratch)
+  - [First Neural Network on MNIST](https://github.com/axelearning/CS_portfolio/tree/master/machine_learning/mlp_on_mnist)
   
 ### 📝 Data Structure and Algorithm
-  - __Quick sort__
+  - [Quick sort](https://github.com/axelearning/CS_portfolio/tree/master/data_structure)
