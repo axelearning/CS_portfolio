@@ -6,6 +6,7 @@
 - What time we should display advertisement to maximize likelihood of customer's buying product?
 - What products are more often solde together?
 - What product sold the most? Why do you think it sold the most?
+
 _↳ This Exercice comes from  : https://www.youtube.com/watch?v=eMOA1pPVUc4&t=242s_
 
 ## What is learned?
