@@ -9,7 +9,9 @@ This directory retrieves my personnal projects towards learning Data Science.
 ### 🔬 Data Analysis
  - [Sales Analysis](https://github.com/axelearning/CS_portfolio/tree/master/data_analysis/sale_analysis)
  - [Soccer Analysis](https://github.com/axelearning/CS_portfolio/tree/master/data_analysis/soccer_analysis)
+ - [Covid-19 Dashboard](https://github.com/axelearning/CS_portfolio/tree/master/data_analysis/covid_19_dashboard)
   
-### 📝 Data Structure and Algorithm
-  - [Quick sort](https://github.com/axelearning/CS_portfolio/tree/master/data_structure)
+### 📝 [Data Structure and Algorithm](https://github.com/axelearning/CS_portfolio/tree/master/data_structure)
+  - Quick sort
+  - Binary searching tree (bst)
 
