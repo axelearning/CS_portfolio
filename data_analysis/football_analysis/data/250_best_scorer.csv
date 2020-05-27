@@ -1,0 +1,251 @@
+,name,club,age,league,nationality,match_played,goals,assists,total,goal_per_matchs,minutes_per_goal
+0,Ciro Immobile,Lazio,30,Italy,Italy,26,27,7,34,1.0384615384615385,86
+15,Robert Lewandowski,Bayern Munich ,31,Germany,Poland,23,25,3,28,1.0869565217391304,82
+13,Erling Haaland,Bor. Dortmund,19,Germany,Norway,21,25,7,32,1.1904761904761905,75
+3,Timo Werner,RB Leipzig,23,Germany,Germany,24,21,7,28,0.875,102
+8,Cristiano Ronaldo,Juventus,35,Italy,Portugal,21,21,2,23,1.0,90
+1,Odsonne Edouard,Celtic,22,Scotland,France,25,20,10,30,0.8,112
+11,Shon Weissman,Wolfsberger AC,24,Austria,Israel,20,20,2,22,1.0,90
+21,André-Pierre Gignac,Tigres UANL,34,Mexico,France,27,19,4,23,0.7037037037037037,127
+17,Alexander Sörloth,Trabzonspor,24,Turkey,Norway,23,19,6,25,0.8260869565217391,108
+14,Lionel Messi,FC Barcelona,32,Spain,Argentina,21,18,12,30,0.8571428571428571,105
+47,Jean-Pierre Nsame,BSC Young Boys,26,Switzerland,Cameroon,21,18,2,20,0.8571428571428571,105
+24,Nikita Rukavytsya,Maccabi Haifa,32,Israel,Australia,26,18,4,22,0.6923076923076923,-126
+19,Mauro Quiroga,Necaxa,30,Mexico,Argentina,29,18,6,24,0.6206896551724138,-111
+16,Jonathan David,KAA Gent,20,Belgium,Canada,26,18,8,26,0.6923076923076923,-126
+18,Dieumerci Mbokani,Royal Antwerp,34,Belgium,DR Congo,27,18,7,25,0.6666666666666666,-121
+12,Joe Gormley,Cliftonville,30,Northern Ireland,Northern Ireland,29,18,4,22,0.6206896551724138,-111
+5,Kylian Mbappé,Paris SG,21,France,France,20,18,7,25,0.9,100
+35,Ivan Trickovski,AEK Larnaca,32,Cyprus,North Macedonia,17,18,2,20,1.0588235294117647,85
+36,Kamil Wilczek,Göztepe,32,Turkey,Poland,22,17,3,20,0.7727272727272727,116
+87,Juanfri,St Joseph's FC,30,Gibraltar,Spain,11,17,0,17,1.5454545454545454,58
+38,Kyrian Nwabueze,KF Laçi,27,Albania,Nigeria,24,17,5,22,0.7083333333333334,127
+66,Romelu Lukaku,Inter,26,Italy,Belgium,24,17,2,19,0.7083333333333334,127
+48,Kodjo Fo Doh Laba,Al-Ain FC,28,United Arab Emirates,Togo,16,17,3,20,1.0625,84
+29,Jamie Vardy,Leicester,33,England,England,25,17,4,21,0.68,-124
+7,Wissam Ben Yedder,Monaco,29,Monaco,France,25,17,7,24,0.68,-124
+25,Ante Vukusic,NK Olimpija,28,Slovenia,Croatia,23,17,5,22,0.7391304347826086,121
+9,Youssef El Arabi,Olympiacos,33,Greece,Morocco,25,17,6,23,0.68,-124
+74,Pierre-Emerick Aubameyang,Arsenal,30,England,Gabon,25,17,1,18,0.68,-124
+75,João Pedro,Cagliari Calcio,27,Italy,Brazil,25,16,2,18,0.64,-116
+67,Patson Daka,RB Salzburg,21,Austria,Zambia,19,16,3,19,0.8421052631578947,106
+49,Javon East,Santos FC,24,Costa Rica,Jamaica,27,16,4,20,0.5925925925925926,-105
+54,Sergio Agüero,Man City,31,England,Argentina,21,16,3,19,0.7619047619047619,118
+42,Mirko Maric,NK Osijek,24,Croatia,Croatia,23,16,5,21,0.6956521739130435,-127
+100,Papiss Demba Cissé,Alanyaspor,34,Turkey,Senegal,22,16,1,17,0.7272727272727273,123
+76,Eric Fedeli,Murata,28,San Marino,Italy,14,16,2,18,1.1428571428571428,78
+88,Abderazak Hamdallah,Al-Nassr,29,Saudi Arabia,Morocco,18,16,2,18,0.8888888888888888,101
+62,Moussa Dembélé,Olympique Lyon,23,France,France,26,16,2,18,0.6153846153846154,-110
+22,Ariel Lassiter,LD Alajuelense,25,Costa Rica,Costa Rica,36,16,7,23,0.4444444444444444,-54
+37,Cyriel Dessers,Heracles Almelo,25,Netherlands,Belgium,25,15,5,20,0.6,-106
+30,Mohamed Salah,Liverpool,27,England,Egypt,25,15,6,21,0.6,-106
+10,Josip Ilicic,Atalanta,32,Italy,Slovenia,21,15,8,23,0.7142857142857143,126
+26,Carlos Vinícius,Benfica,24,Portugal,Brazil,20,15,7,22,0.75,120
+124,Bartholomew Ogbeche,Kerala Blasters,35,India,Nigeria,16,15,1,16,0.9375,96
+123,Danny Ings,Southampton,27,England,England,28,15,1,16,0.5357142857142857,-88
+50,Christoph Monschein,Austria Vienna,27,Austria,Austria,21,15,5,20,0.7142857142857143,126
+101,Marcel Hernández,Cartaginés,30,Costa Rica,Cuba,26,15,2,17,0.5769230769230769,-100
+43,Júnior Moraes,Shakhtar D.,32,Ukraine,Ukraine,17,15,6,21,0.8823529411764706,102
+111,Adam Le Fondre,Sydney FC,33,Australia,England,17,15,1,16,0.8823529411764706,102
+113,Rogelio Funes Mori,Monterrey,28,Mexico,Argentina,29,15,2,17,0.5172413793103449,-82
+31,Robbie McDaid,Glentoran,23,Northern Ireland,Northern Ireland,28,15,6,21,0.5357142857142857,-88
+112,Jaroslaw Niezgoda,Legia Warszawa,24,Poland,Poland,18,14,2,16,0.7777777777777778,115
+114,Danel Sinani,F91 Dudelange,22,Luxembourg,Luxembourg,14,14,3,17,1.0,90
+91,Coro,FC Goa,37,India,Spain,15,14,4,18,0.9333333333333333,96
+78,Jamie Maclaren,Melbourne City,26,Australia,Australia,16,14,4,18,0.875,102
+89,Marcus Rashford,Man Utd,22,England,England,22,14,4,18,0.6363636363636364,-115
+77,Bafétimbi Gomis,Hilal,34,Saudi Arabia,France,19,14,4,18,0.7368421052631579,122
+150,Jonathan Rodríguez,CD Cruz Azul,26,Mexico,Uruguay,22,14,1,15,0.6363636363636364,-115
+63,Rayo,Anorthosis,33,Cyprus,Spain,21,14,6,20,0.6666666666666666,-121
+151,Andrija Majdevac,Balzan FC,22,Malta,Serbia,15,14,1,15,0.9333333333333333,96
+68,Roy Krishna,ATK,32,India,Fiji,18,14,5,19,0.7777777777777778,115
+163,Gabadinho Mhango,Orlando Pirates,27,South Africa,Malawi,20,14,1,15,0.7,-128
+196,Liam Walker,Europa FC,31,Gibraltar,Gibraltar,10,14,0,14,1.4,64
+90,Sebastián Tagliabúe,Al-Wahda FC,35,United Arab Emirates,Argentina,17,14,4,18,0.8235294117647058,109
+125,Vasil Shkurtaj,FK Kukësi,28,Albania,Albania,20,14,2,16,0.7,-128
+44,Steven Berghuis,Feyenoord,28,Netherlands,Netherlands,23,14,7,21,0.6086956521739131,-109
+39,Myron Boadu,AZ Alkmaar,19,Netherlands,Netherlands,23,14,8,22,0.6086956521739131,-109
+51,Myer Bevan,Auckland City,22,New Zealand,New Zealand,15,14,6,20,0.9333333333333333,96
+55,Bryan Linssen,Vitesse,29,Netherlands,Netherlands,24,14,5,19,0.5833333333333334,-102
+2,Jadon Sancho,Bor. Dortmund,19,Germany,England,22,14,15,29,0.6363636363636364,-115
+32,Dario Vizinger,NK Celje ,21,Slovenia,Croatia,22,14,7,21,0.6363636363636364,-115
+139,Ángel Mena,León,32,Mexico,Ecuador,27,13,3,16,0.48148148148148145,-70
+152,Ronnie Schwartz,FC Midtjylland,30,Denmark,Denmark,22,13,2,15,0.5909090909090909,-104
+153,Christian Bolaños,Saprissa,35,Costa Rica,Costa Rica,25,13,2,15,0.52,-83
+164,Nicolás Ibáñez,San Luis,25,Mexico,Argentina,24,13,2,15,0.5416666666666666,-90
+102,Tammy Abraham,Chelsea,22,England,England,25,13,4,17,0.52,-83
+197,Alan Pulido,Kansas,28,United States,Mexico,19,13,1,14,0.6842105263157895,-125
+184,Dominic Calvert-Lewin,Everton,22,England,England,26,13,1,14,0.5,-76
+185,Andraz Sporar,Sporting CP,26,Portugal,Slovenia,16,13,1,14,0.8125,110
+138,Oussama Idrissi,AZ Alkmaar,24,Netherlands,Morocco,24,13,3,16,0.5416666666666666,-90
+186,Jermain Defoe,Rangers,37,Scotland,England,19,13,1,14,0.6842105263157895,-125
+93,David McDaid,Larne FC,29,Northern Ireland,Northern Ireland,27,13,5,18,0.48148148148148145,-70
+92,Vedat Muriqi,Fenerbahce,25,Turkey,Kosovo,23,13,5,18,0.5652173913043478,-97
+45,Sadio Mané,Liverpool,27,England,Senegal,25,13,8,21,0.52,-83
+187,Mersudin Ahmetovic,FK Sarajevo,34,Bosnia-Herzegovina,Bosnia-Herzegovina,20,13,1,14,0.65,-118
+165,Mario Fontanella,Valletta,30,Malta,Italy,19,13,2,15,0.6842105263157895,-125
+126,Julio Furch,Santos Laguna,30,Mexico,Argentina,27,13,3,16,0.48148148148148145,-70
+198,Franco Jara,CF Pachuca,31,Mexico,Argentina,24,13,1,14,0.5416666666666666,-90
+79,Victor Osimhen,LOSC Lille,21,France,Nigeria,26,13,5,18,0.5,-76
+213,Mory Kone,Shirak Gyumri,24,Armenia,Cote d'Ivoire,16,13,1,14,0.8125,110
+199,Adis Jahovic,Antalyaspor,32,Turkey,North Macedonia,22,13,1,14,0.5909090909090909,-104
+69,Raúl Jiménez,Wolves,28,England,Mexico,28,13,6,19,0.4642857142857143,-63
+56,Neymar,Paris SG,28,France,Brazil,15,13,6,19,0.8666666666666667,103
+57,Karim Benzema,Real Madrid,32,Spain,France,25,13,6,19,0.52,-83
+80,Nerijus Valskis,Chennaiyin FC,32,India,Lithuania,17,13,5,18,0.7647058823529411,117
+201,Keilor Soto,Pérez Zeledón,35,Costa Rica,Costa Rica,32,13,1,14,0.40625,-35
+200,Julio Cruz,AD San Carlos,24,Costa Rica,Mexico,28,13,1,14,0.4642857142857143,-63
+214,Andrew Waterworth,Linfield,33,Northern Ireland,Northern Ireland,25,13,1,14,0.52,-83
+218,Mattia Stefanelli,Pennarossa,26,San Marino,San Marino,13,12,2,14,0.9230769230769231,97
+128,Ulises Dávila,Wellington P.,28,New Zealand,Mexico,18,12,4,16,0.6666666666666666,-121
+154,Hans Vanaken,Club Brugge,27,Belgium,Belgium,28,12,3,15,0.42857142857142855,-46
+217,Stojan Vranjes,B. Banja Luka,33,Bosnia-Herzegovina,Bosnia-Herzegovina,21,12,2,14,0.5714285714285714,-99
+216,Christian Gytkjaer,Lech Poznan,29,Poland,Denmark,22,12,2,14,0.5454545454545454,-91
+127,Mislav Orsic,Dinamo Zagreb,27,Croatia,Croatia,17,12,4,16,0.7058823529411765,127
+140,Abdallah Said,Pyramids FC,34,Egypt,Egypt,15,12,4,16,0.8,112
+141,Igor Angulo,Górnik Zabrze,36,Poland,Spain,24,12,4,16,0.5,-76
+215,Robin Quaison,1.FSV Mainz 05,26,Germany,Sweden,23,12,2,14,0.5217391304347826,-84
+205,Predrag Sikimic,NK Domzale,37,Slovenia,Serbia,23,12,2,14,0.5217391304347826,-84
+155,Habib Diallo,FC Metz,24,France,Senegal,26,12,3,15,0.46153846153846156,-61
+156,Federico Macheda,Panathinaikos,28,Greece,Italy,23,12,3,15,0.5217391304347826,-84
+204,Jonathan McDonald,LD Alajuelense,32,Costa Rica,Costa Rica,32,12,2,14,0.375,-16
+166,Mauro Icardi,Paris SG,27,France,Argentina,20,12,3,15,0.6,-106
+167,Alfredo Morelos,Rangers,23,Scotland,Colombia,24,12,3,15,0.5,-76
+168,Tim Matavz,Vitesse,31,Netherlands,Slovenia,24,12,3,15,0.5,-76
+169,Bogdan Stancu,Genclerbirligi,32,Turkey,Romania,17,12,3,15,0.7058823529411765,127
+203,Baghdad Bounedjah,Al Sadd,28,Qatar,Algeria,9,12,2,14,1.3333333333333333,67
+27,Brian Lozano,Santos Laguna,26,Mexico,Uruguay,27,12,10,22,0.4444444444444444,-54
+202,José Macías,Chivas,20,Mexico,Mexico,26,12,2,14,0.46153846153846156,-61
+64,Pizzi,Benfica,30,Portugal,Portugal,22,12,8,20,0.5454545454545454,-91
+157,Vojo Ubiparip,FK Tuzla City,31,Bosnia-Herzegovina,Serbia,19,12,3,15,0.631578947368421,-114
+82,Francisco Rodríguez,Deportes Tolima,27,Colombia,Costa Rica,28,12,6,18,0.42857142857142855,-46
+94,Marcos Ureña,LD Alajuelense,29,Costa Rica,Costa Rica,32,12,6,18,0.375,-16
+115,Jamie McGonigle,Crusaders,23,Northern Ireland,Northern Ireland,25,12,5,17,0.48,-69
+33,Hrvoje Plum,Glentoran,25,Northern Ireland,Croatia,24,12,9,21,0.5,-76
+95,Rok Kronaveter,NK Maribor,33,Slovenia,Slovenia,20,12,6,18,0.6,-106
+81,Edin Dzeko,AS Roma,33,Italy,Bosnia-Herzegovina,25,12,6,18,0.48,-69
+96,Nenad Lukic,FK TSC,27,Serbia,Serbia,23,11,7,18,0.4782608695652174,-68
+219,Wout Weghorst,VfL Wolfsburg,27,Germany,Netherlands,23,11,3,14,0.4782608695652174,-68
+207,Teemu Pukki,Norwich,29,England,Finland,27,11,3,14,0.4074074074074074,-36
+70,Serge Gnabry,Bayern Munich ,24,Germany,Germany,22,11,8,19,0.5,-76
+71,Andrea Compagno,Tre Fiori,23,San Marino,Italy,13,11,8,19,0.8461538461538461,106
+208,Vangelis Pavlidis,Willem II,21,Netherlands,Greece,24,11,3,14,0.4583333333333333,-60
+52,Artem Dzyuba,Zenit S-Pb,31,Russia,Russia,19,11,9,20,0.5789473684210527,-101
+104,Manfred Ugalde,Saprissa,17,Costa Rica,Costa Rica,25,11,6,17,0.44,-52
+65,Florinel Coman,FCSB,21,Romania,Romania,24,11,9,20,0.4583333333333333,-60
+159,Darío Lezcano,FC Juárez,29,Mexico,Paraguay,23,11,4,15,0.4782608695652174,-68
+158,Francesco Caputo,Sassuolo,32,Italy,Italy,22,11,4,15,0.5,-76
+221,Youssoufou Niakaté,Al-Wahda,27,Saudi Arabia,France,20,11,3,14,0.55,-93
+160,Jonathan McMurray,Larne FC,25,Northern Ireland,Northern Ireland,24,11,4,15,0.4583333333333333,-60
+103,Duván Zapata,Atalanta,28,Italy,Colombia,15,11,6,17,0.7333333333333333,122
+40,Ryan Christie,Celtic,25,Scotland,Scotland,22,11,11,22,0.5,-76
+212,Mustapha Yatabaré,Sivasspor,34,Turkey,Mali,23,11,3,14,0.4782608695652174,-68
+211,Christian Doidge,Hibernian FC,27,Scotland,Wales,26,11,3,14,0.4230769230769231,-44
+210,Anthony Okpotu,US Monastir,25,Tunisia,Nigeria,16,11,3,14,0.6875,-126
+209,Damjan Bohar,Zaglebie Lubin,28,Poland,Slovenia,24,11,3,14,0.4583333333333333,-60
+170,Quincy Promes,Ajax,28,Netherlands,Netherlands,19,11,4,15,0.5789473684210527,-101
+171,Mijo Caktas,Hajduk Split,27,Croatia,Croatia,21,11,4,15,0.5238095238095238,-85
+220,Kaveh Rezaei,Club Brugge,27,Belgium,Iran,21,11,3,14,0.5238095238095238,-85
+223,Dario Tadic,TSV Hartberg,29,Austria,Austria,20,11,3,14,0.55,-93
+222,Jesús Imaz,Jagiellonia,29,Poland,Spain,24,11,3,14,0.4583333333333333,-60
+238,Jefferson,Gzira Utd,25,Malta,Brazil,17,11,3,14,0.6470588235294118,-117
+84,Mitja Lotric,NK Celje ,25,Slovenia,Slovenia,22,11,7,18,0.5,-76
+28,Umar Sadiq,Partizan,23,Serbia,Nigeria,20,11,11,22,0.55,-93
+46,Hugo Boumous,FC Goa,24,India,Morocco,14,11,10,21,0.7857142857142857,114
+23,Joel Cooper,Linfield,24,Northern Ireland,Northern Ireland,28,11,12,23,0.39285714285714285,-27
+116,Marco Reus,Bor. Dortmund,30,Germany,Germany,19,11,6,17,0.5789473684210527,-101
+129,Donyell Malen,PSV Eindhoven,21,Netherlands,Netherlands,14,11,5,16,0.7857142857142857,114
+130,Eldor Shomurodov,Rostov,24,Russia,Uzbekistan,20,11,5,16,0.55,-93
+83,Luis Suárez,FC Barcelona,33,Spain,Uruguay,17,11,7,18,0.6470588235294118,-117
+131,Dimitar Iliev,Lok. Plovdiv,31,Bulgaria,Bulgaria,20,11,5,16,0.55,-93
+58,Florian Niederlechner,FC Augsburg,29,Germany,Germany,24,11,8,19,0.4583333333333333,-60
+206,Lautaro Martínez,Inter,22,Italy,Argentina,21,11,3,14,0.5238095238095238,-85
+225,Bradley Grobler,SuperSport Utd.,32,South Africa,South Africa,20,11,3,14,0.55,-93
+142,Lucas Pérez,Alavés,31,Spain,Spain,25,11,5,16,0.44,-52
+143,Kristian Keqi,Floriana,23,Malta,Albania,19,11,5,16,0.5789473684210527,-101
+144,Jordan Owens,Crusaders,30,Northern Ireland,Northern Ireland,24,11,5,16,0.4583333333333333,-60
+224,Samir Nurkovic,Kaizer Chiefs,27,South Africa,Serbia,18,11,3,14,0.6111111111111112,-109
+172,Nikola Petkovic,Javor-Matis,23,Serbia,Serbia,23,11,4,15,0.4782608695652174,-68
+53,Yonatan Cohen,M. Tel Aviv,23,Israel,Israel,23,10,10,20,0.43478260869565216,-49
+173,Gabriel Jesus,Man City,22,England,Brazil,23,10,5,15,0.43478260869565216,-49
+176,Emmanuel Francoise,Pr. Niederkorn,32,Luxembourg,France,14,10,5,15,0.7142857142857143,126
+175,Alexandru Cicaldau,CS U Craiova,22,Romania,Romania,24,10,5,15,0.4166666666666667,-40
+174,Nikolay Komlichenko,Dinamo Moscow,24,Russia,Russia,16,10,5,15,0.625,-112
+188,Ali Mabkhout,Al-Jazira,29,United Arab Emirates,United Arab Emirates,17,10,5,15,0.5882352941176471,-103
+105,Bashkim Kadrii,Al-Fateh,28,Saudi Arabia,Denmark,26,10,7,17,0.38461538461538464,-22
+4,James Forrest,Celtic,28,Scotland,Scotland,26,10,16,26,0.38461538461538464,-22
+162,Guélor Kanga,Sparta Praha,29,Czech Republic,Gabon,20,10,5,15,0.5,-76
+241,Artur Abreu,Titus Petange,25,Luxembourg,Luxembourg,15,10,4,14,0.6666666666666666,-121
+240,Aleksandr Sobolev,KS Samara,22,Russia,Russia,19,10,4,14,0.5263157894736842,-85
+117,Gyrano Kerk,FC Utrecht,24,Netherlands,Netherlands,23,10,7,17,0.43478260869565216,-49
+132,Daniel Avramovski,Vardar,25,North Macedonia,North Macedonia,20,10,6,16,0.5,-76
+239,Sofiane Hanni,Al Gharafa,29,Qatar,Algeria,13,10,4,14,0.7692307692307693,117
+229,Bojan Gjurchinoski,Tre Fiori,25,San Marino,Croatia,15,10,4,14,0.6666666666666666,-121
+228,Ryan Mendes,Sharjah FC,30,United Arab Emirates,Cape Verde,16,10,4,14,0.625,-112
+227,Romarinho,Ittihad,29,Saudi Arabia,Brazil,20,10,4,14,0.5,-76
+226,Gerard Moreno,Villarreal,27,Spain,Spain,24,10,4,14,0.4166666666666667,-40
+59,Bruno Fernandes,Man Utd,25,England,Portugal,21,10,9,19,0.47619047619047616,-67
+72,Denis Alibec,Astra Giurgiu,29,Romania,Romania,19,10,9,19,0.5263157894736842,-85
+161,Yacine Brahimi,Al Rayyan,30,Qatar,Algeria,14,10,5,15,0.7142857142857143,126
+230,Muris Mesanovic,Mladá Boleslav,29,Czech Republic,Bosnia-Herzegovina,24,9,5,14,0.375,-16
+242,Domenico Berardi,Sassuolo,25,Italy,Italy,19,9,5,14,0.47368421052631576,-66
+85,Jonathan Moya,LD Alajuelense,28,Costa Rica,Costa Rica,34,9,9,18,0.2647058823529412,84
+119,Ben Doherty,Coleraine,22,Northern Ireland,Northern Ireland,26,9,8,17,0.34615384615384615,4
+177,Seydouba Soumah,Partizan,28,Serbia,Guinea,21,9,6,15,0.42857142857142855,-46
+146,Lyndon Dykes,Livingston FC,24,Scotland,Scotland,23,9,7,16,0.391304347826087,-26
+145,Islam Slimani,Monaco,31,Monaco,Algeria,17,9,7,16,0.5294117647058824,-86
+191,Riley McGree,Adelaide United,21,Australia,Australia,16,9,6,15,0.5625,-96
+106,Kevin Volland,Bay. Leverkusen,27,Germany,Germany,22,9,8,17,0.4090909090909091,-36
+190,Ismael Sosa,León,33,Mexico,Argentina,24,9,6,15,0.375,-16
+189,Anderson Niangbo,KAA Gent,20,Belgium,Cote d'Ivoire,23,9,6,15,0.391304347826087,-26
+97,Anthony Nwakaeme,Trabzonspor,30,Turkey,Nigeria,21,9,9,18,0.42857142857142855,-46
+118,Heung-min Son,Spurs,27,England,"Korea, South",21,9,8,17,0.42857142857142855,-46
+133,Kristijan Lovric,HNK Gorica,24,Croatia,Croatia,21,9,7,16,0.42857142857142855,-46
+134,Martin Donnelly,Larne FC,31,Northern Ireland,Northern Ireland,28,9,7,16,0.32142857142857145,24
+20,Dusan Tadic,Ajax,31,Netherlands,Serbia,24,9,15,24,0.375,-16
+178,Pavel Bucha,Viktoria Plzen,21,Czech Republic,Czech Republic,22,9,6,15,0.4090909090909091,-36
+231,Donny van de Beek,Ajax,22,Netherlands,Netherlands,22,8,6,14,0.36363636363636365,-9
+192,Damian Kadzior,Dinamo Zagreb,27,Croatia,Poland,20,8,7,15,0.4,-31
+135,Lucas Andersen,Aalborg BK,25,Denmark,Denmark,21,8,8,16,0.38095238095238093,-20
+136,Ken Corral,CS Fola Esch,27,Luxembourg,Luxembourg,15,8,8,16,0.5333333333333333,-88
+234,Raphaël Nuzzolo,NE Xamax,36,Switzerland,Switzerland,22,8,6,14,0.36363636363636365,-9
+232,Alassane Plea,Bor. M'gladbach,26,Germany,France,20,8,6,14,0.4,-31
+233,Jan Sykora,FK Jablonec,26,Czech Republic,Czech Republic,21,8,6,14,0.38095238095238093,-20
+243,Philippe Coutinho,Bayern Munich ,27,Germany,Brazil,21,8,6,14,0.38095238095238093,-20
+244,Marcel Sabitzer,RB Leipzig,25,Germany,Austria,24,8,6,14,0.3333333333333333,14
+245,Olarenwaju Kayode,Gaziantep FK,26,Turkey,Nigeria,19,8,6,14,0.42105263157894735,-43
+246,Steven Lawless,Livingston FC,28,Scotland,Scotland,28,8,6,14,0.2857142857142857,59
+147,Tjaronn Chery,Maccabi Haifa,31,Israel,Netherlands,26,8,8,16,0.3076923076923077,36
+148,Omer Atzili,M. Tel Aviv,26,Israel,Israel,18,8,8,16,0.4444444444444444,-54
+98,Edin Visca,Basaksehir,30,Turkey,Bosnia-Herzegovina,23,8,10,18,0.34782608695652173,2
+6,Kevin De Bruyne,Man City,28,England,Belgium,26,8,17,25,0.3076923076923077,36
+86,Mustapha Bundu,Aarhus GF,23,Denmark,Sierra Leone,22,8,10,18,0.36363636363636365,-9
+41,Ángel Di María,Paris SG,32,France,Argentina,26,8,14,22,0.3076923076923077,36
+179,Roberto Firmino,Liverpool,28,England,Brazil,28,8,7,15,0.2857142857142857,59
+180,Igor Coronado,Sharjah FC,27,United Arab Emirates,Brazil,9,7,8,15,0.7777777777777778,115
+248,Cody Gakpo,PSV Eindhoven,20,Netherlands,Netherlands,25,7,7,14,0.28,65
+247,Taison,Shakhtar D.,32,Ukraine,Brazil,14,7,7,14,0.5,-76
+120,Steven Bergwijn,Spurs,22,England,Netherlands,20,7,10,17,0.35,1
+121,Michael Ngoo,KF Tirana,27,Albania,England,20,7,10,17,0.35,1
+237,Jake Grech,Hibernians FC,22,Malta,Malta,19,7,7,14,0.3684210526315789,-12
+236,Callum McGregor,Celtic,26,Scotland,Scotland,28,7,7,14,0.25,104
+235,Max Kruse,Fenerbahce,31,Turkey,Germany,19,7,7,14,0.3684210526315789,-12
+249,Ádám Gyurcsó,Hajduk Split,28,Croatia,Hungary,20,7,7,14,0.35,1
+108,Cyle Larin,Zulte Waregem,24,Belgium,Canada,28,7,10,17,0.25,104
+107,Riyad Mahrez,Man City,29,England,Algeria,22,7,10,17,0.3181818181818182,26
+109,Mathieu Valbuena,Olympiacos,35,Greece,France,19,6,11,17,0.3157894736842105,29
+60,Hakim Ziyech,Ajax,26,Netherlands,Morocco,20,6,13,19,0.3,44
+149,Papu Gómez,Atalanta,32,Italy,Argentina,24,6,10,16,0.25,104
+193,Paulo Dybala,Juventus,26,Italy,Argentina,23,6,9,15,0.2608695652173913,89
+194,Petros Mantalos,AEK Athens,28,Greece,Greece,21,6,9,15,0.2857142857142857,59
+181,Akram Afif,Al Sadd,23,Qatar,Qatar,10,6,9,15,0.6,-106
+73,Kirk Millar,Linfield,27,Northern Ireland,Northern Ireland,27,6,13,19,0.2222222222222222,-107
+122,Hamed Koné,Gzira Utd,32,Malta,Cote d'Ivoire,17,5,12,17,0.29411764705882354,50
+61,Michael Liendl,Wolfsberger AC,34,Austria,Austria,21,5,14,19,0.23809523809523808,122
+34,Thomas Müller,Bayern Munich ,30,Germany,Germany,24,5,16,21,0.20833333333333334,-80
+137,Stewart Nixon,Coleraine,22,Northern Ireland,Northern Ireland,27,5,11,16,0.18518518518518517,-26
+182,Dan Nistor,CS U Craiova,31,Romania,Romania,21,4,11,15,0.19047619047619047,-40
+195,Miroslav Stevanovic,Servette FC,29,Switzerland,Bosnia-Herzegovina,21,4,11,15,0.19047619047619047,-40
+110,Luis Alberto,Lazio,27,Italy,Spain,25,4,13,17,0.16,50
+99,Christopher Nkunku,RB Leipzig,22,Germany,France,22,4,14,18,0.18181818181818182,-17
+183,Ruud Vormer,Club Brugge,31,Belgium,Netherlands,27,1,14,15,0.037037037037037035,126
