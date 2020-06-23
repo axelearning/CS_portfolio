@@ -4,5 +4,5 @@ The data have been scrape from this [github page](https://github.com/CSSEGISandD
 # Whate I Learned ?
 
 - **Data Analysis**, I increased my skills in processing and merging messy data into a structured and clean form  
-- **Data Visualisation**, I improved my skill in Tableau and discover how to create dynamics visualisation with Pages.
+- **Data Visualisation**, I improved my skill in Tableau and discover how to create dynamics visualisation with Dash.
 
