@@ -3,15 +3,19 @@ This directory retrieves my personnal projects towards learning Data Science.
 ## Projects List
 
 ### 🧠 Machine Learning
-  - [Softmax Regression Algorithm from Scratch](https://github.com/axelearning/CS_portfolio/tree/master/machine_learning/softmax_regression_from_scratch)
-  - [First Neural Network on MNIST](https://github.com/axelearning/CS_portfolio/tree/master/machine_learning/mlp_on_mnist)
+ - [Diabetes Classification]()
+ - [House prices Regression]()
 
-### 🔬 Data Analysis
+### 🔬 Data Visualization
  - [Sales Analysis](https://github.com/axelearning/CS_portfolio/tree/master/data_analysis/sale_analysis)
- - [Soccer Analysis](https://github.com/axelearning/CS_portfolio/tree/master/data_analysis/soccer_analysis)
  - [Covid-19 Dashboard](https://github.com/axelearning/CS_portfolio/tree/master/data_analysis/covid_19_dashboard)
   
-### 📝 [Data Structure and Algorithm](https://github.com/axelearning/CS_portfolio/tree/master/data_structure)
-  - Quick sort
-  - Binary searching tree (bst)
+
+### ⏳Old project
+ - [Soccer Analysis](https://github.com/axelearning/CS_portfolio/tree/master/old_project/soccer_analysis)
+ - [Data Structure and Algorithm](https://github.com/axelearning/CS_portfolio/tree/master/old_project/data_structure)
+ 	  - Quick sort
+  	  - Binary searching tree (bst)
+ - [Softmax Regression Algorithm from Scratch](https://github.com/axelearning/CS_portfolio/tree/master/old_project/softmax_regression_from_scratch)
+ - [First Neural Network on MNIST](https://github.com/axelearning/CS_portfolio/tree/master/old_project/mlp_on_mnist)
 
