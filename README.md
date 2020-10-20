@@ -6,9 +6,9 @@ This directory retrieves my personnal projects towards learning Data Science.
  - [Diabetes Classification](https://github.com/axelearning/CS_portfolio/tree/master/machine_learning/diabetes_classification)
  - [House prices Regression](https://github.com/axelearning/CS_portfolio/tree/master/machine_learning/house_prices_regression)
 
-### 🔬 Data Visualization
- - [Sales Analysis](https://github.com/axelearning/CS_portfolio/tree/master/data_visualization/sale_analysis)
- - [Covid-19 Dashboard](https://github.com/axelearning/CS_portfolio/tree/master/data_visualization/covid_19)
+### 🔬 Data Visualisation
+ - [Sales Analysis](https://github.com/axelearning/CS_portfolio/tree/master/data_visualisation/sale_analysis)
+ - [Covid-19 Dashboard](https://github.com/axelearning/CS_portfolio/tree/master/data_visualisation/covid_19)
   
 ### ⏳Old project
  - [Soccer Analysis](https://github.com/axelearning/CS_portfolio/tree/master/old_project/soccer_analysis)
