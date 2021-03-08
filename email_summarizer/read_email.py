@@ -7,12 +7,17 @@ from googleapiclient.discovery import build
 from google_auth_oauthlib.flow import InstalledAppFlow
 from google.auth.transport.requests import Request
 
+import base64
+from bs4 import BeautifulSoup
+
 # Text to speech
 import pyttsx3
 
 # If modifying these scopes, delete the file token.pickle.
 SCOPES = ["https://www.googleapis.com/auth/gmail.readonly"]
-IMPORTANT_LABEL = "CATEGORY_PERSONAL"  # add "UNREAD" in production
+# The kind of email you will collect - more info here -> https://developers.google.com/gmail/api/guides/labels
+LABELS = ["INBOX"]  # add "UNREAD" in production
+CATEGORIES = ["CATEGORY_PERSONAL"]
 LANGUAGE = "fr"
 
 
@@ -51,22 +56,62 @@ def gmail_request():
 
 
 def read_emails(service):
-    results = service.users().messages().list(userId="me", labelIds=["INBOX"]).execute()
+    results = (
+        service.users()
+        .messages()
+        .list(
+            userId="me",
+            labelIds=LABELS,
+        )
+        .execute()
+    )
     messages = results.get("messages", [])
+    list_of_msg = []
     if not messages:
-        print("Vous n'avez pas de nouveaux messages ?")
+        print("Vous n'avez pas de nouveaux messages.")
     else:
-        for i, message in enumerate(messages):
+        for message in messages:
+            msg_data = {}
             msg = (
-                service.users()
-                .messages()
-                .get(userId="me", id=message["id"], format="raw")
-                .execute()
+                service.users().messages().get(userId="me", id=message["id"]).execute()
             )
-            if "CATEGORY_PERSONAL" in msg["labelIds"]:
-                print(msg["snippet"])
-                print()
-            # say(msg['snippet'])
+            if (label in msg["labelIds"] for label in CATEGORIES):
+                payload = msg["payload"]
+                header = payload["headers"]
+
+                for head in header:
+                    # Sender
+                    if head["name"] == "From":
+                        sender = head["value"]
+                        sender = [part.strip() for part in sender.split()]
+                        name = (" ").join(sender[:-1])
+                        msg_data["Sender"] = name
+                    # Date
+                    if head["name"] == "Date":
+                        msg_data["Date"] = head["value"]
+                    # Subject
+                    if head["name"] == "Subject":
+                        msg_data["Subject"] = head["value"]
+                print(name)
+                # MSG
+                mssg_parts = payload["parts"]  # fetching the message parts
+                part_one = mssg_parts[0]  # fetching first element of the part
+                part_body = part_one["body"]  # fetching body of the message
+                part_data = part_body["data"]  # fetching data from the body
+                clean_one = part_data.replace("-", "+")  # decoding from Base64 to UTF-8
+                clean_one = clean_one.replace("_", "/")  # decoding from Base64 to UTF-8
+                clean_two = base64.b64decode(
+                    bytes(clean_one, "UTF-8")
+                )  # decoding from Base64 to UTF-8
+                soup = BeautifulSoup(clean_two, "lxml")
+                mssg_body = soup.body()
+                # mssg_body is a readible form of message body
+                # depending on the end user's requirements, it can be further cleaned
+                # using regex, beautiful soup, or any other method
+                msg_data["Message_body"] = mssg_body
+                print(mssg_body)
+        print(list_of_msg.append(msg_data))
+        # say(msg["snippet"])
 
 
 def say(text):
